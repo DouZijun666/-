@@ -1,0 +1,2 @@
+A B TX RX GND
+       灰 紫   棕        
